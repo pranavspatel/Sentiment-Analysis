@@ -5,16 +5,14 @@ The goal of the project is to develop a machine learning model that can accurate
 ![](https://github.com/pranavspatel/Sentiment-Analysis/blob/main/images/image1.jpg)
 
 
+![](https://github.com/pranavspatel/Sentiment-Analysis/blob/main/images/image2.jpg)
 
+## Findings
+1. We can see that the precision is 80 % and the accuracy is around 76 % which is not desirable for the production. AUC score is around 86.2% which great for the model performance.
+2. Need better cross validation approach eg using Random SearchCV.
 
+# Ways to improve model accuracy 
+1. Can use Voting Classifier for multiple models 
+2. Apply Stacking for combination of algorithms.
+3. Incorporate additinal features in the model. 
 
- 
- 
- 
-# Delivabale: 
-
-1. Please use GitHub and share the code repository with us through email: narges@marv.coach
-
-2. In the GitHub repository, create a readme document and answer question 5 in there
-
-3. You have 48 hours to complete the project. 
