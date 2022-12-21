@@ -4,7 +4,13 @@ The goal of the project is to develop a machine learning model that can accurate
 # Results
 ![](https://github.com/pranavspatel/Sentiment-Analysis/blob/main/images/image1.jpg)
 
+
+
+
 After Cross Validation
+
+
+
 ![](https://github.com/pranavspatel/Sentiment-Analysis/blob/main/images/image2.jpg)
 
 ## Findings
